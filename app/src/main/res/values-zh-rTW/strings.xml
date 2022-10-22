@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">螢幕翻譯器</string>
+    <string name="enable_screen_translator">請先授權螢幕翻譯器無障礙權限!</string>
+    <string name="help_msg">啟用螢幕翻譯器的快速設定方塊後，點一下快速設定方塊即可使用!(須在一級目錄點按)</string>
+    <string name="papago_required">Naver Papago 必須安裝在此裝置!</string>
+</resources>

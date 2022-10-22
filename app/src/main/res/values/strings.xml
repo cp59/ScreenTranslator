@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScreenTranslator</string>
+    <string name="help_msg">After enabling the quick setting box of the screen translator, click the quick setting box to use it! (must be clicked in the first level directory)</string>
+    <string name="enable_screen_translator">Please authorize screen translator accessibility permission first!</string>
+    <string name="papago_required">Naver Papago must be installed on this device!</string>
+</resources>
